@@ -16,10 +16,10 @@ Hosting:
 1.Netlify (https://user-mngmt-app.netlify.app/)
 
 Installation:
-Download Zip Code from the Github repositry
-Make Sure you have Node and Npm installed
-In the Project Folder type "npm install"
-After all the installation is completed run "npm run dev"
-Go to http://localhost:5173/ in browser to see the result
+1.Download Zip Code from the Github repositry
+2.Make Sure you have Node and Npm installed
+3.In the Project Folder type "npm install"
+4.After all the installation is completed run "npm run dev"
+5.Go to http://localhost:5173/ in browser to see the result
 
 NOTE: THIS PROJECT USES VITE TO CREATE REACT APP , TO CREATE REACT APP USING VITE TYPE "npm create vite@latest"
